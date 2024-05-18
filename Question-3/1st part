@@ -1,0 +1,6 @@
+According to me the way to measure the length of 2 paths is comparing the sum of absolute difference of their x and y coordinates respectively (shortest path lenght between those) . Even if path is constrained we can find the length by just assuming we "have" to pass through a specified point (x,y) we can calculate shortest between Starting point to (x,y) and then (x,y) to Final point. This method can be expanded to infinite number of constrained points.
+This metric is called Manhattan Distance. And according to me this is the best metric which can be used as other metrics have diagnal distances, terrains, Weighted distances etc which are not being said asked in our question.
+ List of other metrics:-
+ 1. Euclidean Distance
+ 2. Chebyshev Distance
+ 3. Weighted Distance
