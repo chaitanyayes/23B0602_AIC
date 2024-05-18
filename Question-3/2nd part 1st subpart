@@ -1,0 +1,3 @@
+The basic mathematical idea to determine 'likeliness' between two words is consider two words as vector and computing angle between them (in 3D). In higher dimension angle does not exist so we just compute cosine among those vector.
+This is called cosine similarlity.
+(We convert these words into word embeddings( vectors) by training our model by backpropagation)
