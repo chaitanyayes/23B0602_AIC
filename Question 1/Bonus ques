@@ -1,0 +1,43 @@
+
+Vision-Based Transformers vs. CNNs
+Vision-Based Transformers (ViTs)
+Mechanism: Apply self-attention to image patches.
+Components: Patch embedding, positional encoding, Transformer encoder, classification head.
+
+
+Comparison with CNNs
+
+
+Inductive Biases:
+
+CNNs: Built-in spatial locality.
+ViTs: Lack spatial biases, need more data.
+Data Efficiency:
+
+CNNs: Efficient with smaller datasets.
+ViTs: Require large datasets.
+
+Performance:
+
+CNNs: Strong on varied datasets.
+ViTs: Excel on large datasets post pre-training.
+
+Computational Complexity:
+
+CNNs: Lower complexity.
+ViTs: Higher due to self-attention.
+
+Flexibility:
+
+CNNs: Less adaptable to varying inputs.
+ViTs: More flexible with inputs.
+
+Transfer Learning:
+
+CNNs: Established, effective fine-tuning.
+ViTs: Benefit from transfer learning, efficient fine-tuning.
+Challenges and Future Directions
+Data Requirements: ViTs need more data.
+Resources: ViTs are more intensive.
+Hybrid Models: Combining CNNs and Transformers.
+Interpretability: ViTs offer new insights.
