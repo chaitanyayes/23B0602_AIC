@@ -1,0 +1,66 @@
+Weekly Plan: 1 Month
+Week 1: Getting Started with AI and Understanding the Problem
+Objective:
+
+Familiarize yourself with AI concepts and understand the problem statement.
+Tasks:
+
+Introduction to AI:
+
+Use ChatGPT to understand basic concepts of AI, machine learning, and data science.
+Ask ChatGPT about the importance of AI in solving real-world problems and its applications in various industries.
+Understanding the Problem:
+
+Use ChatGPT to explain the problem statement and its significance.
+Ask ChatGPT about common techniques used in customer churn prediction and why it's important for businesses.
+Week 2: Data Exploration and Preprocessing
+Objective:
+
+Explore the dataset and prepare it for building models.
+Tasks:
+
+Data Exploration:
+
+Utilize ChatGPT to guide you through exploratory data analysis (EDA) techniques.
+Learn how to interpret histograms, box plots, and scatter plots to understand data distributions and relationships.
+Data Preprocessing:
+
+Seek guidance from ChatGPT on data cleaning techniques such as handling missing values and dealing with outliers.
+Learn about feature engineering and its importance in improving model performance.
+Week 3: Model Building and Evaluation
+Objective:
+
+Build machine learning models to predict customer churn.
+Tasks:
+
+Model Selection:
+
+Use ChatGPT to explore different machine learning algorithms suitable for binary classification tasks.
+Understand the pros and cons of each algorithm through ChatGPT's explanations.
+Model Training:
+
+Ask ChatGPT for guidance on how to train machine learning models using Python libraries like scikit-learn.
+Learn about hyperparameter tuning and its impact on model performance.
+Model Evaluation:
+
+Seek ChatGPT's assistance in evaluating model performance using metrics like accuracy, precision, recall, and F1-score.
+Understand the importance of cross-validation in assessing model generalization.
+Week 4: Finalizing Models and Presentation Preparation
+Objective:
+
+Fine-tune models, select the best-performing one, and prepare for the hackathon presentation.
+Tasks:
+
+Model Optimization:
+
+Use ChatGPT to learn about techniques for model optimization, such as feature selection and hyperparameter tuning.
+Implement ChatGPT's suggestions to improve model performance.
+Model Selection and Finalization:
+
+Seek ChatGPT's advice on selecting the best-performing model based on evaluation metrics.
+Understand how to save and deploy the final model for future predictions.
+Presentation Preparation:
+
+Utilize ChatGPT to create a presentation outlining the problem statement, data exploration, model building process, and results.
+Practice presenting the findings with ChatGPT's assistance to gain confidence for the hackathon presentation.
+By leveraging ChatGPT's guidance and expertise, even as a newbie in AI, you can effectively prepare for the hackathon and make meaningful contributions to solving the customer churn prediction problem.
